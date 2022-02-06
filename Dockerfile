@@ -25,6 +25,6 @@ COPY app.py .
 
 USER pacman 
 
-# Run the application
+# Run the application with non root privileges
 
 CMD [ "python3", "app.py"] 
