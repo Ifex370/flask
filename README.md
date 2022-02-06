@@ -2,8 +2,8 @@
 
 A very simple Flask app that displays date and time according to the TimeZone rendering on html template.
 
-- $ pip install -r requirements.txt
-- $ python app.py
+- $ pip3 install -r requirements.txt
+- $ python3 app.py
 
 That's all 😻!
 
