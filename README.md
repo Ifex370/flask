@@ -15,7 +15,8 @@ The page refreshes automatically every minute!
 You can also deploy the Docker version available [here](https://hub.docker.com/repository/docker/themuntu/ls3)!!!! by running the following :
 
 - $ docker pull themuntu/ls3:tagname
-- $ docker run -d -p 8000:8000 --name container_name ls3:latest
+- $ docker run -d -p 8000:8000 --name container_name ls3:latest 
+Set the port according to your system.
 
 
 

@@ -23,9 +23,6 @@ def hello_blog():
 def hello_gallery():
     return ("<h1>Empty Gallery lol (*_*)</h1><p>Nothing to see now!</p> ")
 
-@app.route('/memes')
-def hello_memes():
-    return ("<h1>Empty lol (0__0)</h1><p>Nothing to see now!</p> ")
 
 if __name__=='__main__':
 	app.run(debug=True,host="0.0.0.0",port=8000)
