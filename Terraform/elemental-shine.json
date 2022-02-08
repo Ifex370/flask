@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "elemental-shine-338522",
+  "private_key_id": "772ef1f413ef4a761a64ed512e2959832bfe9bea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDSutOSQl+zVH4L\njlHtUQSpxtBqzLNNEJ8VKykGgOrXN+3xJMcGA7M37IwRb/aZGC7/QL0sYrixxcCM\nUMe/sOvDcvtka1Mra3mKHYM12ErXy4mra519vDIJ71oyC9KhICk57S64bROihYys\nrWSnNykfNuG4NjjQoHXjiqSh6m3kbRixoX4vdDj0mf6wV4q3fEkC/zvwuxZaASzE\nOYVGA6j/dGYg9zgJVFaL7sQMHFLGaLHjURezTF3lxLSkehjoPANvcPj+20VGrmQK\nZ9QIpAUujtfIRfao0aZ9piSgdjwNtzmaiwmL0BejzPvmR4IqKu0xHGufcHDYHHry\nJ+CSCsyLAgMBAAECggEAO8MUIVSFg3wgyvIvtdfWNLfXf5JR/zcJhp1Y4ylIcITC\nDDNb5g7CkseY6ZERJFXBbk5T1/SfYHsuohx+qZRpKGLBfLcbPSMbstmvzmNqxkxI\n3L6GSZRHtJ2WvL6xm1RdnLnxGAiHGv446Pe7pdh05w9PcEigUDpRdJhrHCg5xh/O\nkqvn4AgmZmIDjkdFNznWUZ3gtrkWTvkh/7Y7WYQ3jnbFdY2cJLtuXVo6zmFN9YNi\nhyflGavgWmvJ0KUvZLRt6DkZABQw0YmWMg8FsaePtPG8vfFdgO95meOyUsnGypQH\nguRr4LjDxP3xJJcijNYI4EBzBiPVK2X26nA2DS1kAQKBgQDzDrjcIXHwZQQjvme3\nKWdpFYTR9pbZL6VLgamgAGjpg0ZqrWwt405K5bLpVfrdUM6K+PgdRVq4GRqxFMPw\nCS29H0UuS6MYT8oi5DgTo5P33SY1c4EKEWzXEGtBHnTGP/ozc9X64jlf+JDOvNeF\nC28RH32TbUsDvO+YjcnosGN5iwKBgQDd82x+9b03MtOsRn8i1Iip4wHjezuAoPWG\n8oFrIRUSegbBZ29bxHSwbauc4t3TIzddnhcGlX0mAIG8bW21edIaLEM+2ifFv0uB\nsre64D0EvmUOpxuKoL8anOWnSDWdFOj9IWQ40nXmx1ZtbFG5y0i27kI2PD6PI1di\n0EFsFfJZAQKBgCyyhGRW8jEXIo/AMCqKvq2ge3BxPIRsMqWUDrGR4bkvnv93LPGz\nX25+l0w5t4yDk7gS2O3pFynL1BDElNPLnFGvMnW1CyUpZy7LcVSLPGbUkHY763sC\ngVV7e33aL/dVRJm5r5wXhh2UBG1AZRHebGpltB4sdyMU16riSEM2TNTJAoGACLlY\numTOWy0UROFAfg38kTDrEhX18Mhi3jsJ+zwBqAhD27ZFGkZOj+C/rhr8vR/VPUjJ\nfujBUo0SjGWAunFfYMf8nKvWhF9QiHiN4DqQK2+QaVMIMhq/aDxiioC8GsCHp+t4\nFQOwvrF3JDXtwG/NG+OhlqAnlVi+RpQI/kaekAECgYAzG/ilJD3Z4OjFloKbSLzb\nuRwFEZafWq8zAEcGxc1ouNRKFkmqbcIbB86kNzCZ+USVdIvIIBuu+SiTyirZTqsK\nvSEDpG+zMYRdYupXOtO50jQyNLr8Ajo5xJH/rLo87j0JP4RF0jU0kKSnfHunopFd\niYVWEVxl5QgASG6Ck3+Axw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ls3-lab@elemental-shine-338522.iam.gserviceaccount.com",
+  "client_id": "108553373757348594207",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ls3-lab%40elemental-shine-338522.iam.gserviceaccount.com"
+}

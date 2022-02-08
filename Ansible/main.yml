@@ -1,0 +1,7 @@
+- hosts: ls3-instance
+  remote_user: st6
+  become: true
+  become_user: root
+  roles:
+  - role: common
+  - role: docker

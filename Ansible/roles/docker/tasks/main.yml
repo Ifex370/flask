@@ -1,0 +1,27 @@
+---
+
+- name: Copy the code from repository
+  git: repo=https://github.com/TheMuntu/LS3.git  dest=/root/ls3
+
+- name: Build Docker image from Dockerfile
+  command: docker build -t ls3 /root/ls3/
+
+
+#- name: run the site in a docker container
+  #docker:
+    #name: sne-family
+    #image: "ls3:latest"
+    #published_ports: #"0.0.0.0:80:8000"
+    #state: reloaded
+    #publish_all_ports: yes
+
+- name: build site by running ansible in a docker container
+  command: "docker run
+    -d --name sne-family
+    -p 80:8000 
+     ls3:latest"
+        
+
+- name: Check if container is running
+  shell: docker ps
+        
