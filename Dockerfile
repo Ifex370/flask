@@ -2,13 +2,14 @@ FROM python:
 
 # Create a user with non root privileges
 
-RUN groupadd --gid 5000 pacman \
-    && useradd --home-dir /home/pacman --create-home --uid 5000 \
-        --gid 5000 --shell /bin/sh --skel /dev/null pacman
+RUN groupadd --gid 5000 st2 \
+    && useradd --home-dir /home/st2 --create-home --uid 5000 \
+        --gid 5000 --shell /bin/sh --skel /dev/null st2
 
 
 # Make a directory for our application
-WORKDIR /home/pacman/app
+WORKDIR /home/st2/Desktop/Innopolis/largesystem/lab3/LS3/app
+
 
 # Install dependencies 
 COPY requirements.txt requirements.txt
@@ -23,7 +24,7 @@ COPY app.py .
 
 # Set the user created
 
-USER pacman 
+USER st2
 
 # Run the application with non root privileges
 
